@@ -1,0 +1,20 @@
+.bookshelfbtn{
+
+
+  padding: 7px;
+  background-color: rgb(239, 112, 112);
+  border: 1px solid rgb(239, 112, 112);
+  border-radius: 5px;
+  color: white;  
+
+
+}
+
+.bookshelfbtn:hover{
+
+  border: 1px solide rgb(239, 112, 112);
+  color: rgb(239, 112, 112);
+  background-color: white;
+
+
+}
